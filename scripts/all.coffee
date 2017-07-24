@@ -1,8 +1,8 @@
 
 https = require 'https'
 
-room_id = process.env.HUBOT_GROUPME_ROOM_ID
-bot_id = process.env.HUBOT_GROUPME_BOT_ID
+room_id = process.env.16132113
+bot_id = process.env.323fe8c6b84d97caca5539ee7e
 token = process.env.HUBOT_GROUPME_TOKEN
 
 module.exports = (robot) ->
